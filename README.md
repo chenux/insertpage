@@ -1,0 +1,2 @@
+# insertpage
+Moodle template plugin
